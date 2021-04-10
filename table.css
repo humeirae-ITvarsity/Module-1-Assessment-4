@@ -1,0 +1,24 @@
+body{
+  background-image:url(images/camera.png) ;
+  font-family:monospace;
+  font-weight: 800;
+  font-size-adjust: auto;>
+}
+h1{
+  font-family: sans-serif;
+  background-color: #ffffff;
+  font-size: 40px;
+  opacity: 0.9
+}
+th{
+  font-size: 30px;
+  color: #F6D8CE;
+  background-color: #848484;
+}
+table{
+  font-size: 20px;
+  font-weight: 800;
+  background-repeat: no-repeat;
+  background-color: #848484;
+  opacity: 0.9;
+}
